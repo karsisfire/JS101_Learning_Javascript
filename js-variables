@@ -1,0 +1,28 @@
+
+let school = "Masai School\nA Transformation in Education";
+console.log(school);
+
+var name = "Chingkhei";
+console.log(name);
+var name = "Kundal";
+console.log(name);
+var name = "Ranjita";
+console.log(name);
+
+var name = "Chingkhei";
+var age = 21;
+console.log(name + age);
+console.log(typeof(name), typeof(age));
+
+let name = "Chingkhei";
+let school = "Kawnpui RP High School";
+let grade = "A+";
+let section = "A";
+let roll = 29;
+let marks = 65;
+console.log("name = " + name);
+console.log("school = " + school);
+console.log("grade = " + grade);
+console.log("section = " + section);
+console.log("roll = " + roll);
+console.log("marks = " + marks);
