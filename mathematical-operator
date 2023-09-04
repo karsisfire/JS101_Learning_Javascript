@@ -1,0 +1,39 @@
+let num = 9;
+let divisor = 3;
+var remainder = num % divisor;
+if(remainder === 0){
+  console.log("multiple of 3");
+}
+
+let person = 18;
+const drivingAge = 18;
+if(person >= drivingAge){
+  console.log("Apply for a license");
+}
+else{
+  console.log("NA");
+}
+
+let a = 7;
+let b = 8;
+if(a > b){
+  console.log(a);
+}
+else if(b > a){
+  console.log(b);
+}
+else{
+  console.log("both equal");
+}
+
+const username = "RaidenEi";
+const password = "InazumaShinesEternal";
+let x = "RaidenEi";
+let y = "InazumaShinesEthernal";
+if(x == username && y == password){
+  console.log("Login Successful");
+}
+else{
+  console.log("Failed to login");
+}
+
